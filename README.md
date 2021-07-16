@@ -4,7 +4,7 @@
 
 # `Hello, World! 🌎`
 
-I'm Hamza Ellaouzi 👨‍💻 I currently studying Web development at [Microverse Inc](https://www.microverse.org/).
+I'm Hamza Ellaouzi 👨‍💻 I currently studying as an international programmer at [Microverse Inc](https://www.microverse.org/).
 
 📫 You can follow my journey as a Microverse student on:
 
