@@ -3,12 +3,12 @@
 
 # `Hello, World! 🌎`
 
-I'm Hamza Ellaouzi 👨‍💻 I currently studying as an international programmer at [Microverse Inc](https://www.microverse.org/).
+I'm Hamza Ellaouzi 👨‍💻 I currently studying as Web Developer at [Microverse Inc](https://www.microverse.org/).
 
 📫 You can follow my journey as a Microverse student on:
 
- <a href="https://twitter.com/EllaouziHamza"><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
- <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr"><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ <a href="https://twitter.com/EllaouziHamza"><img alt="Twitter" src="https://img.shields.io/badge/<Ellaouzi Hamza>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+ <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr"><img alt="Instagram" src="https://img.shields.io/badge/<hamzaoutdoors>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://web.facebook.com/profile.php?id=100008420561138"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ## I'm interested in learning new technologies! :diamonds: 🏃‍♂️💨
