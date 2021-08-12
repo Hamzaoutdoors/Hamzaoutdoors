@@ -2,8 +2,11 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ellaouzihamza" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://github.com/Hamzaoutdoors" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 # `Hello, World! 🌎`
+## 👨‍ Who am I?
 
-I'm Hamza Ellaouzi 👨‍💻 I currently studying as Web Developer at [Microverse Inc](https://www.microverse.org/).
+- ##### I'm Hamza Ellaouzi 👨‍💻 I currently studying as Web Developer at [Microverse Inc](https://www.microverse.org/).
+- ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
+- ##### Travelling enthusiast
 
 📫 You can follow my journey as a Microverse student on:
 
@@ -11,7 +14,7 @@ I'm Hamza Ellaouzi 👨‍💻 I currently studying as Web Developer at [Microve
  <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<hamzaoutdoors>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/profile.php?id=100008420561138" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
-## I'm interested in learning new technologies! :diamonds: 🏃‍♂️💨
+## :diamonds:🏃‍♂️💨 I'm interested in learning new technologies!
 ![](https://github-readme-stats.vercel.app/api?username=Hamzaoutdoors)
 
 
