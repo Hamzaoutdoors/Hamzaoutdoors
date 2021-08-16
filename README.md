@@ -7,6 +7,7 @@
 - ##### I'm Hamza Ellaouzi 👨‍💻 I currently studying as Web Developer at [Microverse Inc](https://www.microverse.org/).
 - ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
 - ##### Travelling enthusiast
+- ##### Geek
 
 📫 You can follow my journey as a Microverse student on:
 
