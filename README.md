@@ -16,7 +16,7 @@
 <a href="https://web.facebook.com/profile.php?id=100008420561138" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ## :diamonds:🏃‍♂️💨 I'm interested in learning new technologies!
-![](https://github-readme-stats.vercel.app/api?username=Hamzaoutdoors)
+![](https://github-readme-stats.vercel.app/api?username=Hamzaoutdoors&show_icons=true&theme=dark)
 
 
 If you'd like me to come work on one of your projects, you can reach me on:
