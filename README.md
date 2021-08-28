@@ -31,7 +31,7 @@ If you'd like me to come work on one of your projects, you can reach me on:
 Or you can contact me through [my portfolio page](https://hamzaoutdoors.github.io/My_Portfolio/) 💼!
 
 ⚡ Fun fact:
-I first traveled solo when I was 12 😁. 
+I first traveled solo when I was 13 😁. 
 traveling and working push me to change my career into full stack development
 
 ### Cheers and Happy hacking! 😁👍💻
