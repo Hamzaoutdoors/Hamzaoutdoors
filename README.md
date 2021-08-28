@@ -10,10 +10,10 @@
 - ##### Geek
 
 📫 You can follow my journey as a Microverse student on:
-
+<div align="center">
  <a href="https://twitter.com/EllaouziHamza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/<Ellaouzi Hamza>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<hamzaoutdoors>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://web.facebook.com/profile.php?id=100008420561138" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://web.facebook.com/profile.php?id=100008420561138" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a></div>
 
 ## :diamonds:🏃‍♂️💨 I'm interested in learning new technologies!
 ![](https://github-readme-stats.vercel.app/api?username=Hamzaoutdoors&show_icons=true&theme=dark)
@@ -24,9 +24,10 @@
 <br>
 
 If you'd like me to come work on one of your projects, you can reach me on:
-
+<div align="center">
 <a href="https://www.linkedin.com/in/hamza-ellaouzi-137a45b8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://wa.link/o8tc4d" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ </div>
 
 Or you can contact me through [my portfolio page](https://hamzaoutdoors.github.io/My_Portfolio/) 💼!
 
