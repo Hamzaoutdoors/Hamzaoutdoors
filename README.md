@@ -4,9 +4,9 @@
 # `Hello, World! 🌎`
 ## 👨‍ Who am I?
 
-- ##### I'm Hamza Ellaouzi (Hamzaoutdoors) 👨‍💻 I currently studying as Web Developer at [Microverse Inc](https://www.microverse.org/).
+- ##### I'm Hamza Ellaouzi (Hamzaoutdoors) 👨‍💻 I am currently studying as a Web Developer at [Microverse Inc](https://www.microverse.org/).
 - ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
-- ##### Travelling enthusiast
+- ##### Traveling enthusiast
 - ##### Geek
 
 📫 You can follow my journey as a Microverse student on:
@@ -33,7 +33,7 @@ Or you can contact me through [my portfolio page](https://hamzaoutdoors.github.i
 
 ⚡ Fun fact:
 I first traveled solo when I was 13 😁. 
-traveling and working push me to change my career into full stack development
+traveling and working push me to change my career into full-stack development
 
 ### Cheers and Happy hacking! 😁👍💻
 
