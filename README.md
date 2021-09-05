@@ -1,6 +1,13 @@
 ![Github Banner](https://user-images.githubusercontent.com/80895497/126012742-6e900ee4-ea19-4dc7-b30f-34b29441fa0c.png)
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ellaouzihamza" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://github.com/Hamzaoutdoors" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+
+ </br>
+ <div align="center">
+  <em align="center">" Life doesn't have a ctrl-z. Type wisely. "</em><strong> - anonymous</strong>
+  </div>
+ </br>
+
 # `Hello, World! 🌎`
 ## 👨‍ Who am I?
 
