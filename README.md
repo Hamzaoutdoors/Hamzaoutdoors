@@ -13,9 +13,13 @@
 # `Hello, World! 🌎` 
 
  <div align="center">
+   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132959341-c6673c4f-a360-46ec-b3ce-766010d069d7.png" width="100" height="50"/>
+  
  <kbd>
-  <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132956159-17397f08-7f20-47be-a1b3-50be928cad27.gif" width="200" height="200" style="border-radius:50%"/>
+  <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132956159-17397f08-7f20-47be-a1b3-50be928cad27.gif" width="200" height="200"/>
   </kbd>
+ 
+   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132959338-e935ce44-dc0b-40aa-b7d4-118b97469001.png" width="100" height="50"/>
   </div>
  </br>
  
