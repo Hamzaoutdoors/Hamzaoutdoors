@@ -7,8 +7,16 @@
   <em align="center">" Life doesn't have a ctrl-z. Type wisely. "</em><strong> - anonymous</strong>
   </div>
  </br>
+ 
+# `Hello, World! 🌎` 
 
-# `Hello, World! 🌎`
+ <div align="center">
+ <kbd>
+  <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132956159-17397f08-7f20-47be-a1b3-50be928cad27.gif" width="200" height="200" style="border-radius:50%"/>
+  </kbd>
+  </div>
+ </br>
+ 
 ## 👨‍ Who am I?
 
 - ##### I'm Hamza Ellaouzi (Hamzaoutdoors) 👨‍💻 I am currently studying as a Web Developer at [Microverse Inc](https://www.microverse.org/).
