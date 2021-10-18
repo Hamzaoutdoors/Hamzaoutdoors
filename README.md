@@ -32,17 +32,24 @@
 
 📫 You can follow my journey as a Microverse student on:
 <div align="center">
- <a href="https://twitter.com/EllaouziHamza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/<Ellaouzi Hamza>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<hamzaoutdoors>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/EllaouziHamza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@ellouzihamza-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@hamzaoutdoors-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/profile.php?id=100008420561138" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a></div>
+</br>
 
 ## :diamonds:🏃‍♂️💨 I'm interested in learning new technologies!
-![](https://github-readme-stats.vercel.app/api?username=Hamzaoutdoors&show_icons=true&theme=dark)
 
-### Languages and Tools:
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br>
+</br>
+<table align="center">
+  <tr>
+    <td align="center"> Hamza GitHub stats for 2021</td>
+    <td align="center">Languages and Tools:</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hamzaoutdoors&show_icons=true&theme=dark" width=100% height=100%></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </br> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </br> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></td>
+  </tr>
+ </table>
 
 If you'd like me to come work on one of your projects, you can reach me on:
 <div align="center">
