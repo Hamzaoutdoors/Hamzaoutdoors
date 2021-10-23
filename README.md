@@ -25,9 +25,10 @@
  
 ## 👨‍ Who am I?
 
-- ##### I'm Hamza Ellaouzi (Hamzaoutdoors) 👨‍💻 I am currently studying as a Web Developer at [Microverse Inc](https://www.microverse.org/).
+- ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 I am currently studying as a Web Developer at [Microverse Inc](https://www.microverse.org/).
 - ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
-- ##### Traveling enthusiast and continuously learning.
+- ##### Traveling enthusiast and 🌱 continuously learning.
+- ##### 👯 looking to collaborate with other content creators
 - ##### Geek and Coffee addicted ☕
 
 📫 You can follow my journey as a Microverse student on:
@@ -50,6 +51,19 @@
     <td align="center"><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </br> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </br> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></td>
   </tr>
  </table>
+ 
+ 
+## 📕 Latest Blog Posts :
+
+- ##### [How to Deploy a React App to GitHub Pages - HackerNoon](https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages)
+- ##### [From Civil Engineering To Web Development - Medium](https://medium.com/@hamzaellaouzi/from-civil-engineer-with-3years-of-working-in-geology-to-software-engineer-8bfe708cc988)
+
+
+## ⚡ Fun fact:
+I first traveled solo when I was 13 😁. 
+traveling and working push me to change my career into full-stack development
+
+---
 
 If you'd like me to come work on one of your projects, you can reach me on:
 <div align="center">
@@ -59,9 +73,6 @@ If you'd like me to come work on one of your projects, you can reach me on:
 
 Or you can contact me through [My Portfolio](https://hamzaoutdoors.github.io/My_Portfolio/) 💼!
 
-⚡ Fun fact:
-I first traveled solo when I was 13 😁. 
-traveling and working push me to change my career into full-stack development
 
 ### Cheers and Happy hacking! 😁👍💻
 
