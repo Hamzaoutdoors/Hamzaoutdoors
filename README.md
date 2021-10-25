@@ -31,7 +31,11 @@
 - ##### 👯 looking to collaborate with other content creators
 - ##### Geek and Coffee addicted ☕
 
+</br>
+
 📫 You can follow my journey as a Microverse student on:
+</br>
+
 <div align="center">
  <a href="https://twitter.com/EllaouziHamza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@ellouzihamza-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/hamzaoutdoors/?hl=fr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@hamzaoutdoors-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
