@@ -1,5 +1,5 @@
 
-![Github Banner](https://user-images.githubusercontent.com/80895497/132957040-41098d6f-62cf-474b-948f-28e78249a032.gif)
+   <img alt="banner" src="https://user-images.githubusercontent.com/80895497/139085285-6462885d-fe0d-4f5e-8195-bd83c35b960f.gif" width=100%/>
 
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ellaouzihamza" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://github.com/Hamzaoutdoors" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
