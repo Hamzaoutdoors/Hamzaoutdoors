@@ -9,6 +9,9 @@
   <em align="center">" Life doesn't have a ctrl-z. Type wisely. "</em><strong> - anonymous</strong>
   </div>
  </br>
+  <div align="center">
+     <img alt="logo" src="https://camo.githubusercontent.com/d8d49a59fd20bc4cd6e471a051e4cec355061eab3a275fde5db124900af42456/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a6e74517a50513763664969632f67697068792e6769663f6369643d656366303565343738766c7a343462336f64647a75346f72746b78366169716e397a3834356f6e697532643939653437267269643d67697068792e6769662663743d67" width="100" height="100"/>
+  </div>
  
 # `Hello, World! 🌎` 
 
@@ -23,7 +26,8 @@
   </div>
  </br>
  
-## 👨‍ Who am I?
+## 👨‍ Who am I?  
+
 
 - ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 I am currently studying as a Web Developer at [Microverse Inc](https://www.microverse.org/).
 - ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
