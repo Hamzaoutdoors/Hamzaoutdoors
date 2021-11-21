@@ -14,17 +14,6 @@
   </div>
  
 # `Hello, World! 🌎` 
-
- <div align="center">
-   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132959341-c6673c4f-a360-46ec-b3ce-766010d069d7.png" width="100" height="50"/>
-  
- <kbd>
-  <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132956159-17397f08-7f20-47be-a1b3-50be928cad27.gif" width="200" height="200"/>
-  </kbd>
- 
-   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/132959338-e935ce44-dc0b-40aa-b7d4-118b97469001.png" width="100" height="50"/>
-  </div>
- </br>
  
 ## 👨‍ Who am I?  
 
@@ -84,4 +73,8 @@ Or you can contact me through [My Portfolio](https://hamzaoutdoors.github.io/My_
 
 ### Cheers and Happy hacking! 😁👍💻
 
+ <div align="center">
+   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/142746406-49f2ad11-4aac-42f4-bb4e-b705f408bd54.png" width="200" height="200"/>
+  </div>
+ </br>
 
