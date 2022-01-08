@@ -49,10 +49,12 @@
   </tr>
  </table>
  
+ <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaoutdoors&theme=github-dark" alt="streak""/> 
+</div>
  
 ## 📕 Latest Blog Posts :
 
-- ##### [How to Deploy a React App to GitHub Pages - HackerNoon](https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages)
 - ##### [From Civil Engineering To Web Development - Medium](https://medium.com/@hamzaellaouzi/from-civil-engineer-with-3years-of-working-in-geology-to-software-engineer-8bfe708cc988)
 
 
