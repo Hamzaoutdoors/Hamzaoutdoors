@@ -71,7 +71,7 @@ If you'd like me to come work on one of your projects, you can reach me on:
 <a href="https://wa.link/o8tc4d" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  </div>
 
-Or you can contact me through [My Portfolio](https://hamza-el.netlify.app/) 💼!
+Or you can contact me through [My Portfolio](https://hamza-ellaouzi.netlify.app/) 💼!
 
 
 ### Cheers and Happy hacking! 😁👍💻
