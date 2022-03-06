@@ -22,7 +22,7 @@
 - ##### Traveling enthusiast and 🌱 continuously learning.
 - ##### 👯 looking to collaborate with other content creators
 
-_" Along with getting the opportunity to see new places, I am someone who really enjoys getting to know new people. I am so interested in learning about new cultures and what their business practices look like. I will say, I am an excellent networker, so I will always be eager to connect with new clients and hopefully build better business partnerships for your brand."_ ~ Hamza Ellaouzi
+_" Along with getting the opportunity to see new places, I am someone who really enjoys getting to know new people. I am so interested in learning about new cultures and what their business practices look like. I will say, I am an excellent networker, so I will always be eager to connect with new clients and hopefully build better business partnerships for your brand." ~ Hamza Ellaouzi
 
 </br>
 
