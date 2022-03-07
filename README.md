@@ -17,7 +17,7 @@
  
 ## 👨‍ Who am I?  
 
-- ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 I am currently studying as a Web Developer at [Microverse Inc](https://www.microverse.org/).
+- ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 Full-Stack Software Developer | Ruby on Rails, React/Redux, Bootstrap,
 - ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
 - ##### Traveling enthusiast and 🌱 continuously learning.
 - ##### 👯 looking to collaborate with other content creators
