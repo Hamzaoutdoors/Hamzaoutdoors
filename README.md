@@ -6,7 +6,7 @@
 
  </br>
  <div align="center">
-  <em align="center">" Life doesn't have a ctrl-z. Type wisely. "</em><strong> - anonymous</strong>
+  <em align="center">" Life doesn't have a ctrl-Z. Type wisely. "</em><strong> - anonymous</strong>
   </div>
  </br>
   <div align="center">
