@@ -20,7 +20,7 @@
 
 - ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 Full-Stack Software Developer | Ruby on Rails, React/Redux, Bootstrap,
 - ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
-- ##### Traveling enthusiast and 🌱 continuously learning.
+- ##### Traveling enthusiast and 🌱 continuously learning
 - ##### 👯 looking to collaborate with other content creators
 
 _" Along with getting the opportunity to see new places, I am someone who really enjoys getting to know new people. I am so interested in learning about new cultures and what their business practices look like. I will say, I am an excellent networker, so I will always be eager to connect with new clients and hopefully build better business partnerships for your brand." ~ Hamza Ellaouzi
