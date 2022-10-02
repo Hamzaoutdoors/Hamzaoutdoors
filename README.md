@@ -6,7 +6,7 @@
 
  </br>
  <div align="center">
-  <em align="center">" Life doesn't have a ctrl-z.. Type wisely "</em><strong> - Anonymous</strong>
+  <em align="center">" Life doesn't have a ctrl-z. Type wisely "</em><strong> - Anonymous</strong>
   </div>
  </br>
  </br>
@@ -30,7 +30,7 @@ _" Along with getting the opportunity to see new places, I am someone who really
 📫 You can follow my journey as a Microverse student on:
 </br>
 
-## :diamonds:🏃‍♂️💨 I'm interested in learning new technologies!
+## :diamonds:🏃‍♂️💨 I'm interested in learning new technologies
 
 </br>
 <table align="center">
