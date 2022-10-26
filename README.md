@@ -18,8 +18,8 @@
  
 ## 👨‍ Who am I?  
 
-- ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 Full-Stack Software Developer | Ruby on Rails, React/Redux, Bootstrap,
-- ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree and three years of experience in the industry.
+- ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 Full-Stack Software Developer | Ruby on Rails, React, React Native/Redux, Bootstrap,
+- ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree, but I have always loved to program.
 - ##### Traveling enthusiast and 🌱 continuously learning
 - ##### 👯 looking to collaborate with other content creators
 
