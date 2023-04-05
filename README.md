@@ -74,7 +74,7 @@ Or you can contact me through [My Portfolio](https://hamza-ellaouzi.netlify.app/
 ### Cheers and Happy hacking! 😁👍💻
 
  <div align="center">
-   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/142746406-49f2ad11-4aac-42f4-bb4e-b705f408bd54.png" width="200" height="200"/>
+   <img alt="logo" src="https://user-images.githubusercontent.com/80895497/230155403-76d32e0a-f51f-4d1c-b764-707fe9b654a9.png" width="300" height="300"/>
   </div>
  </br>
 
