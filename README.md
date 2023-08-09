@@ -6,7 +6,7 @@
 
  </br>
  <div align="center">
-  <em align="center">" Life doesn't have a ctrl-z, Type wisely "</em><strong> - Anonymous</strong>
+  <em align="center">" Life doesn't have a ctrl-z .. Type wisely "</em><strong> - Anonymous</strong>
   </div>
  </br>
  </br>
@@ -19,7 +19,7 @@
 ## 👨‍ Who am I?  
 
 - ##### I'm Hamza - aka [Hamzaoutdoors](https://github.com/Hamzaoutdoors) 👨‍💻 Full-Stack Software Developer | Ruby on Rails, React, React Native/Redux, Bootstrap,
-- ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineer degree, but I have always loved to program.
+- ##### I have a hydrogeotechnical and GIS (Geographic Information System) engineering degree, but I have always loved to program.
 - ##### Traveling enthusiast and 🌱 continuously learning
 - ##### 👯 looking to collaborate with other content creators
 
