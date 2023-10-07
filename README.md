@@ -50,7 +50,7 @@ _" Along with getting the opportunity to see new places, I am someone who really
  
 ## 📕 Latest Blog Posts :
                                                                                                                    
-- ##### [How to Deploy a React App to GitHub Pages - Hackernoon](https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages)
+- ##### [How to Deploy a React App to GitHub Pages - Hackernoon (Nominated for 2022 - HackerNoon Contributor of the Year - Github)](https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages)
 - ##### [From Civil Engineering To Web Development - Medium](https://medium.com/@hamzaellaouzi/from-civil-engineer-with-3years-of-working-in-geology-to-software-engineer-8bfe708cc988)
 
 
