@@ -10,7 +10,7 @@
 
  </br>
  <div align="center">
-  <em align="center">" Life doesn't have a ctrl-z .. Type wisely "</em><strong> - Anonymous</strong>
+  <em align="center">" Life doesn't have a ctrl-z, Type wisely "</em><strong> - Anonymous</strong>
   </div>
  </br>
  </br>
